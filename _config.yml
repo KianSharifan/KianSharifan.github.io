@@ -92,7 +92,7 @@ mastodon_username: # your mastodon instance+username in the format instance.tld/
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
 osf_id: # your OSF ID
-pinterest_id: # kiansharifan
+pinterest_id: kiansharifan
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
@@ -100,7 +100,7 @@ scholar_userid: # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
-stackoverflow_id: kian-sharifan
+stackoverflow_id: 27400042/kian-sharifan
 telegram_username: kian_sharifan
 unsplash_id: # your unsplash id
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
