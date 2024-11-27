@@ -65,7 +65,7 @@ max_width: 930px
 # see https://schema.org/docs/faq.html for more information
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+og_image: file:///Users/kiansharifan/Pictures/119528316.e720805d.161x161o.7351591adb18@2x.jpeg# The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
