@@ -40,7 +40,8 @@ repo_trophies:
 # -----------------------------------------------------------------------------
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
-
+feed:
+ logo: 119528316.e720805d.161x161o.7351591adb18@2x.jpeg
 rss_icon: true
 
 # -----------------------------------------------------------------------------
