@@ -9,7 +9,7 @@ last_name: Sharifan
 email: sharifankina@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 #  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >ok whatever i just want to test this one and see where it goes when i write it.
+footer_text: ok whatever i just want to test this one and see where it goes when i write it.
 #  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 #  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
