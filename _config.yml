@@ -22,8 +22,8 @@ baseurl:
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
-porfile picture: file:///Users/kiansharifan/Pictures/119528316.e720805d.161x161o.7351591adb18@2x.jpeg
-
+img/: file:///Users/kiansharifan/Pictures/119528316.e720805d.161x161o.7351591adb18@2x.jpeg
+_page/about.md: Iran,Tehran
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
