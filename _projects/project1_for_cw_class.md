@@ -5,8 +5,8 @@ description: first poject for cw class
 img: assets/img/12.jpg
 importance: 1
 category: cw_class
-tag🥇
-tag🇦🇷
-tag⚽
+tag: 🥇
+tag: 🇦🇷
+tag: ⚽
 related_publications: true
 ---
