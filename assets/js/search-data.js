@@ -21,7 +21,7 @@ ninja.data = [{
           description: "i dont have any publication these are for cw class",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/_pages/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
@@ -42,7 +42,7 @@ ninja.data = [{
           description: "i havent write my cv yet but it looks like that i have to uplod something in here for cw class",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/_pages/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
           title: "teaching",
