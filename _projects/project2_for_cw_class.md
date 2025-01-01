@@ -3,7 +3,7 @@ layout: page
 title: project 2 for cw class
 description: the second poject for cw class
 img: assets/img/7.jpg
-description: second project;
+description: second_project
 tag:🎾
 tag:🥇
 tag:⬜
