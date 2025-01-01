@@ -6,6 +6,7 @@ title: Personal Website # the website title (if blank, full name will be used in
 first_name: Kian
 middle_name: 
 last_name: Sharifan
+email: sharifankian@gmail.com
 contact_note: I check my telegram more often.
 description: a website to share may career
 footer_text: A personal website
@@ -641,3 +642,7 @@ jsonresume:
   - languages
   - interests
   - references
+# ------------------------------------------------------------------------------
+# social
+# ------------------------------------------------------------------------------
+telegram: kian_sharifan
