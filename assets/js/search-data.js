@@ -21,7 +21,7 @@ ninja.data = [{
           description: "i dont have any publication these are for cw class",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/_pages/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
