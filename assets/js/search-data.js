@@ -42,7 +42,7 @@ ninja.data = [{
           description: "i havent write my cv yet but it looks like that i have to uplod something in here for cw class",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/_pages/cv/";
           },
         },{id: "nav-teaching",
           title: "teaching",
@@ -110,28 +110,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2015/math/";
-        
-      },
-    },{id: "post-a-post-with-code",
-      
-        title: "a post with code",
-      
-      description: "an example of a blog post with some code",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/code/";
-        
-      },
-    },{id: "post-a-post-with-images",
-      
-        title: "a post with images",
-      
-      description: "this is what included images could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/images/";
         
       },
     },{id: "news-a-simple-inline-announcement",
