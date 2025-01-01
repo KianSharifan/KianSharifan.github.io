@@ -7,9 +7,11 @@ tags: formatting code
 categories: cs post
 featured: true
 ---
-````markdown
 
-A code snippet:
+## A code snippet:
+
+
+````markdown
 
       ```c
       printf("Hello, World!");
