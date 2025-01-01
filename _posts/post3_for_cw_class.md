@@ -7,3 +7,9 @@ tags: formatting math
 categories: cw posts
 related_posts: false
 ---
+
+a simple math equation:
+\begin{equation}
+\label{eq:triangle-ineq}
+| a + b | \leq | a | + | b |
+\end{equation}
