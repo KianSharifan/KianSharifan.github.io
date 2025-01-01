@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>09331711680 number</p>
-    <p>Amirabad address</p>
+    <p>Amirabad </p>
     <p>Tehran city</p>
 
 news: false # includes a list of news items
