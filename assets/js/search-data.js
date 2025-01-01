@@ -196,11 +196,25 @@ ninja.data = [{
           window.open("https://www.pinterest.com/Kian Sharifan", "_blank");
         },
       },{
+        id: 'social-stackoverflow',
+        title: 'Stackoverflow',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://stackoverflow.com/users/Kian Sharifan", "_blank");
+        },
+      },{
         id: 'social-telegram',
         title: 'telegram',
         section: 'Socials',
         handler: () => {
           window.open("https://telegram.me/kian_sharifan", "_blank");
+        },
+      },{
+        id: 'social-whatsapp',
+        title: 'whatsapp',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://wa.me/09331711680", "_blank");
         },
       },{
         id: 'social-x',
