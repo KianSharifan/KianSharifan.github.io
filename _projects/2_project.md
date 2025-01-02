@@ -8,3 +8,13 @@ tag: 🥇
 tag: ⬜
 category: cw_class
 ---
+
+
+this is the secnd project.
+
+    ---
+    layout: page
+    title: project
+    description: a project with a background image
+    img: /assets/img/12.jpg
+    ---
