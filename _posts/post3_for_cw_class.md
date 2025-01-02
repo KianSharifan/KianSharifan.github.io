@@ -5,7 +5,6 @@ date: 12th of dey 1403
 description: an example of a post with some math
 tags: formatting math
 categories: sample-posts
-related_posts: false
 ---
 
 a simple math equation:
