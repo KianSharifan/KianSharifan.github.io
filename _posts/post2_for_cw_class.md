@@ -6,6 +6,7 @@ description: an example of a post with some code
 tags: formatting code
 categories: sample-posts
 featured: true
+thumbnail: assets/img/Gemini_Generated_Image_srrqodsrrqodsrrq.jpeg
 ---
 
 ## A code snippet:
