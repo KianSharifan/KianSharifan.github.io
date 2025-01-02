@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>09331711680 number</p>
-    <p>Amirabad </p>
+    <p>IUST work</p>
     <p>Tehran city</p>
 
 news: false # includes a list of news items
@@ -19,4 +19,4 @@ social: true # includes social icons at the bottom of the page
 ---
 
 Hello there Im kian sharifan a student of computer engineering in iust.you can contact me with my [telegram](https://telegram.me/kian_sharifan).
-I love tennis and almost any other sports to🙃.A hufflepuff member, also a intj.
+I love tennis and almost any other sports to🙃.A hufflepuff member, also an intj.
