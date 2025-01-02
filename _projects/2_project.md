@@ -6,7 +6,7 @@ img: assets/img/7.jpg
 tag: 🎾
 tag: 🥇
 tag: ⬜
-category: cw_class
+category: work
 ---
 
 
