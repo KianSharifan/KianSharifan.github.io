@@ -4,7 +4,7 @@ title: a post with images
 date: 12th of dey 1403
 description: this is what included images could look like
 tags: formatting images
-categories: posts for cw class
+categories: sample_posts
 thumbnail: a post with picture
 ---
 
