@@ -121,7 +121,7 @@ ninja.data = [{
           title: 'project 2 for cw class',
           description: "the second poject for cw class",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/project2_for_cw_class/";
+              window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-for-cw-class",
           title: 'project 3 for cw class',
           description: "third project for cw class",
