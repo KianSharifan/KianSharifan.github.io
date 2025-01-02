@@ -4,7 +4,7 @@ title: a post with code
 date: 12th of day 1403
 description: an example of a post with some code
 tags: formatting code
-categories: cs post
+categories: sample-posts
 featured: true
 ---
 
